@@ -3,6 +3,11 @@
 I am Riya P Mathew
 
 2nd year CS student at Mar Baselios College of Engineering and Technology
+
+Love to work with Python 
+
+Exploring Machine Learning and Blockchain
+
 <!--
 **RiyaMathew-11/RiyaMathew-11** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
