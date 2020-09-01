@@ -4,7 +4,7 @@ I am Riya P Mathew
 
 2nd year CS student at Mar Baselios College of Engineering and Technology
 
-Love to work with Python 
+Love to work with Python and C 
 
 Exploring Machine Learning and Blockchain
 
