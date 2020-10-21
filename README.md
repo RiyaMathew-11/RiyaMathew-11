@@ -1,8 +1,12 @@
 ### Hi there 👋
 
-I am Riya P Mathew
+<b>I am Riya P Mathew</b>
 
-CS sophomore at Mar Baselios College of Engineering and Technology
+<ul>
+  <li>CS sophomore at Mar Baselios College of Engineering and Technology</li>
+  <li>AI/ML Lead at DSC MBCET</li>
+  <li>AI/ML Community Head at Catalyst-Mar Baselios IEDC</li>
+</ul>  
 
 🔭 Love to work with Python and C 
 
