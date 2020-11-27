@@ -10,7 +10,7 @@ Hi I am Riya P Mathew. I am currently an sophomore majoring in Computer Science 
 - I'm currently focussed on improving my Data Structure and Algorithms, and Problem Solving Skills
 - 📫 How to reach me:  [Linkedin](https://www.linkedin.com/in/riya-p-mathew-3ab88b1a0/) 
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=riya-p-mathew-3ab88b1a0" alt="riya p mathew" /> </p>
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=RiyaMathew-11" alt="riya p mathew" /> </p>
 
 [![Twitter Follow](https://img.shields.io/twitter/follow/RiyaPMathew2?style=social)](https://twitter.com/RiyaPMathew2)
 
