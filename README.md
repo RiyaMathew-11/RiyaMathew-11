@@ -22,11 +22,13 @@ Hi I am Riya P Mathew. I am currently an sophomore majoring in Computer Science 
 
 ![Most used Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=RiyaMathew-11&&show_icons=true)
 
+Write to me at </br>
+[<img src="https://img.shields.io/badge/gmail-%231DA1F2.svg?&style=for-the-badge&logo=gmail&logoColor=white" />](mailto:riyapmathew2000@gmail.com)
+
 ----
 <p align="center">
   <a href="https://www.linkedin.com/in/riya-p-mathew-3ab88b1a0/"><img src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" width="30px" alt="LinkedIn"></a> &nbsp; &nbsp;
   <a href="https://twitter.com/RiyaPMathew2"><img src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" width="30px" alt="Twitter"></a> &nbsp; &nbsp;
-  <a href="riyapmathew2000@gmail.com"><img src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/gmail.svg" width="30px" alt="Gmail"></a> &nbsp; &nbsp;
   <a href="https://medium.com/@riyapmathew2000"><img src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/medium.svg" width="30px" alt="Gmail"></a> &nbsp; &nbsp;
 
   </p>
