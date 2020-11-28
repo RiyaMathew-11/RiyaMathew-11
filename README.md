@@ -20,7 +20,7 @@ Hi I am Riya P Mathew. I am currently an sophomore majoring in Computer Science 
 
 ![Riya's github stats](https://github-readme-stats.vercel.app/api?username=RiyaMathew-11&show_icons=true&theme=radical)
 
-![Most used Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=RiyaMathew-11&&show_icons=true)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=RiyaMathew-11&langs_count=4)](https://github.com/anuraghazra/github-readme-stats)
 
 Write to me at </br>
 [<img src="https://img.shields.io/badge/gmail-%231DA1F2.svg?&style=for-the-badge&logo=gmail&logoColor=white" />](mailto:riyapmathew2000@gmail.com)
