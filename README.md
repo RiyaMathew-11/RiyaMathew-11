@@ -18,7 +18,7 @@ Hi I am Riya P Mathew. I am currently an sophomore majoring in Computer Science 
 ----
 
 
-![Riya's GitHub Stars's github stats](https://github-readme-stats.vercel.app/api?username=RiyaMathew-11&show_icons=true&hide=["issues"])
+![Riya's github stats](https://github-readme-stats.vercel.app/api?username=RiyaMathew-11&show_icons=true&theme=radical)
 
 ![Most used Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=RiyaMathew-11&&show_icons=true)
 
