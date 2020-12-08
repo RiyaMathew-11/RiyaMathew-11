@@ -2,12 +2,12 @@
 
 
 ----
-Hi I am Riya P Mathew. I am currently a sophomore majoring in Computer Science and Engineering.I love to work with Python and C. I’m currently looking through Machine Learning and Competitive Programming
+Hi I am Riya P Mathew. I am currently a sophomore majoring in Computer Science and Engineering. I love to work with Python and C. I’m currently looking through Machine Learning and Competitive Programming
 
 - I'm interested in Cryptography, Web development and Cybersecurity
 - Ask me about Python and C.
-- I'm currently learning Java and 
-- I'm currently focussed on improving my Data Structure and Algorithms, and Problem Solving Skills
+- I'm currently learning Java and Basics of App Development
+- Also focussed on improving my Data Structures and Algorithms, and Problem Solving Skills
 - 📫 How to reach me:  [Linkedin](https://www.linkedin.com/in/riya-p-mathew-3ab88b1a0/) 
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=RiyaMathew-11" alt="riya p mathew" /> </p>
