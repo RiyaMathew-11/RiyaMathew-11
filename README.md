@@ -2,7 +2,7 @@
 
 
 ----
-Hi I am Riya P Mathew. I am currently a sophomore majoring in Computer Science and Engineering. I love to work with Python and C. I’m currently looking through Machine Learning and Competitive Programming
+I am Riya P Mathew. I am currently a sophomore majoring in Computer Science and Engineering. I love to work with Python and C. I’m currently looking through Machine Learning and Competitive Programming
 
 - I'm interested in Cryptography, Web development and Cybersecurity
 - Ask me about Python and C.
