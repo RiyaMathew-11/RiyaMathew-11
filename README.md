@@ -6,7 +6,7 @@ I am **Riya P Mathew**. I am currently a sophomore majoring in Computer Science 
 
 - I'm interested in Cryptography, Web development and Cybersecurity
 - Ask me about Python and C.
-- I'm currently learning Java and Basics of App Development
+- I'm currently learning Java and Basics of Django
 - Also focussed on improving my Data Structures and Algorithms, and Problem Solving Skills
 - 📫 How to reach me:  [Linkedin](https://www.linkedin.com/in/riya-p-mathew-3ab88b1a0/) 
 
