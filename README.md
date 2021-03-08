@@ -77,3 +77,29 @@ I am **Riya P Mathew**, a sophomore majoring in Computer Science and Engineering
     </tr>
   </tbody>
 </table>
+
+## My Favourite Editors and IDEs
+
+<table>
+  <tbody>
+    <tr valign="top">
+      <td width="25%" align="center">
+        <span>VSCode</span><br><br><br>
+        <img height="64px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/9/9a/Visual_Studio_Code_1.35_icon.svg/1024px-Visual_Studio_Code_1.35_icon.svg.png">
+      </td>
+      <td width="25%" align="center">
+        <span>PyCharm</span><br><br><br>
+        <img height="64px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/a/a1/PyCharm_Logo.svg/1024px-PyCharm_Logo.svg.png">
+      </td>
+      <td width="25%" align="center">
+        <span>Eclipse</span><br><br><br>
+        <img height="64px" src="https://design.jboss.org/redhatdeveloper/website/redhatdeveloper_1_0/illustrations/images/products_eclipse_logo.png">
+      </td>
+      <td width="25%" align="center">
+        <span><strong>NetBeans</strong>
+        </span><br><br><br>
+        <img height="64px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/9/98/Apache_NetBeans_Logo.svg/666px-Apache_NetBeans_Logo.svg.png">
+      </td>
+    </tr>
+  </tbody>
+</table>    
