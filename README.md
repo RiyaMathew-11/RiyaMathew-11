@@ -14,7 +14,7 @@ I am **Riya P Mathew**, a sophomore majoring in Computer Science and Engineering
 - Currently working as a research intern on `Chatbot Development`
 - Also focussed on improving my `Data Structures and Algorithms` and `Problem Solving Skills`
 
-## 𝗠𝘆 𝗧𝗲𝗰𝗸 𝗦𝘁𝗮𝗰𝗸
+### 𝗠𝘆 𝗧𝗲𝗰𝗸 𝗦𝘁𝗮𝗰𝗸
 
 <table>
   <tbody>
@@ -78,7 +78,7 @@ I am **Riya P Mathew**, a sophomore majoring in Computer Science and Engineering
   </tbody>
 </table>
 
-## My Favourite Editors and IDEs
+### My Favourite Editors and IDEs
 
 <table>
   <tbody>
@@ -86,6 +86,12 @@ I am **Riya P Mathew**, a sophomore majoring in Computer Science and Engineering
       <td width="25%" align="center">
         <span>VSCode</span><br><br><br>
         <img height="64px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/9/9a/Visual_Studio_Code_1.35_icon.svg/1024px-Visual_Studio_Code_1.35_icon.svg.png">
+      </td>
+        </td>
+        <td width="25%" align="center">
+        <span><strong>Atom</strong>
+        </span><br><br><br>
+        <img height="64px" src="https://seeklogo.com/images/A/atom-logo-19BD90FF87-seeklogo.com.png">
       </td>
       <td width="25%" align="center">
         <span>PyCharm</span><br><br><br>
@@ -99,7 +105,6 @@ I am **Riya P Mathew**, a sophomore majoring in Computer Science and Engineering
         <span><strong>NetBeans</strong>
         </span><br><br><br>
         <img height="64px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/9/98/Apache_NetBeans_Logo.svg/666px-Apache_NetBeans_Logo.svg.png">
-      </td>
     </tr>
   </tbody>
 </table>    
