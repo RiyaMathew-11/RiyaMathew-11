@@ -125,3 +125,37 @@ I am **Riya P Mathew**, a sophomore majoring in Computer Science and Engineering
     </ul>    
     
 </p>    
+</details>
+
+<div align = "center">
+
+![Riya's Github Status](https://github-readme-stats.vercel.app/api?username=RiyaMathew-11&show_icons=true&title_color=3793c4&icon_color=ffbb00&text_color=ffffff&bg_color=000000)
+
+<hr>
+
+</div>    
+<h1 align="center">    
+✨ Connect with me ✨
+
+<p align="center">
+  <br/>
+  <a href="https://www.linkedin.com/in/riya-p-mathew-3ab88b1a0/">
+    <img src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?&style=flat-square&logo=linkedin&logoColor=white">
+  </a>
+  
+  <a href="mailto:riyapmathew2000@gmail.com">
+    <img src="https://img.shields.io/badge/gmail-%231DA1F2.svg?&style=flat-square&logo=gmail&logoColor=white">  
+  </a>
+
+
+  <br/>
+ 
+  <a href="https://www.instagram.com/riya_mathew1111/">
+    <img src="https://img.shields.io/badge/Instagram-%23E4405F.svg?&style=flat-square&logo=instagram&logoColor=white">
+  </a>
+
+  <a href="https://twitter.com/RiyaPMathew2">
+    <img src="https://img.shields.io/badge/twitter-%230077D4.svg?&style=flat-square&logo=twitter&logoColor=white">
+  </a>
+</p>
+</h1>
