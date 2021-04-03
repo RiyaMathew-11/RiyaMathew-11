@@ -95,7 +95,7 @@ I am **Riya P Mathew**, a sophomore majoring in Computer Science and Engineering
       </td>
       <td width="25%" align="center">
         <span>PyCharm</span><br><br><br>
-        <img height="64px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/a/a1/PyCharm_Logo.svg/1024px-PyCharm_Logo.svg.png">
+        <img height="64px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/1/1d/PyCharm_Icon.svg/1200px-PyCharm_Icon.svg.png">
       </td>
       <td width="25%" align="center">
         <span>Eclipse</span><br><br><br>
