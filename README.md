@@ -132,6 +132,11 @@ I am **Riya P Mathew**, a sophomore majoring in Computer Science and Engineering
 ![Riya's Github Status](https://github-readme-stats.vercel.app/api?username=RiyaMathew-11&show_icons=true&title_color=3793c4&icon_color=ffbb00&text_color=ffffff&bg_color=000000)
 
 <hr>
+    
+<br></br>
+
+[![Riya's github activity graph](https://activity-graph.herokuapp.com/graph?username=RiyaMathew-11&theme=xcode)](https://github.com/RiyaMathew-11)
+
 
 </div>    
 <h1 align="center">    
