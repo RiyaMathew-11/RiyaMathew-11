@@ -10,7 +10,7 @@
 I am **Riya P Mathew**, an undergrad majoring in Computer Science and Engineering. I love to work with `Python` and `C`. I’m currently looking through `Machine Learning` and `Competitive Programming`
 
 - I'm interested in `Cryptography` and `Web Development`
-- Ask me about `Python` and `C`.
+- Ask me about `Python` and `Machine Learning`.
 - Currently working on my mini project involving `Deep Learning` and `NLP`
 - Also focussed on improving my `Data Structures and Algorithms` and `Problem Solving Skills`
 
