@@ -7,11 +7,11 @@
 <img src='https://img.shields.io/badge/AI/ML%20Enthusiast-555555?style=for-the-badge&logoColor=white'>
 
 
-I am **Riya P Mathew**, a sophomore majoring in Computer Science and Engineering. I love to work with `Python` and `C`. I’m currently looking through `Machine Learning` and `Competitive Programming`
+I am **Riya P Mathew**, an undergrad majoring in Computer Science and Engineering. I love to work with `Python` and `C`. I’m currently looking through `Machine Learning` and `Competitive Programming`
 
 - I'm interested in `Cryptography` and `Web Development`
 - Ask me about `Python` and `C`.
-- Currently working as a research intern on `Chatbot Development`
+- Currently working on my mini project involving `Deep Learning` and `NLP`
 - Also focussed on improving my `Data Structures and Algorithms` and `Problem Solving Skills`
 
 ### 𝗠𝘆 𝗧𝗲𝗰𝗸 𝗦𝘁𝗮𝗰𝗸
