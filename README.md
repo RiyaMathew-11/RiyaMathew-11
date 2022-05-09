@@ -99,7 +99,7 @@ I am **Riya P Mathew**, an undergrad majoring in Computer Science and Engineerin
       </td>
       <td width="25%" align="center">
         <span>Eclipse</span><br><br><br>
-        <img height="64px" src="https://design.jboss.org/redhatdeveloper/website/redhatdeveloper_1_0/illustrations/images/products_eclipse_logo.png">
+        <img height="64px" src="https://iconape.com/wp-content/png_logo_vector/eclipse-2.png">
       </td>
       <td width="25%" align="center">
         <span><strong>NetBeans</strong>
