@@ -129,7 +129,7 @@ I am **Riya P Mathew**, an undergrad majoring in Computer Science and Engineerin
 
 <div align = "center">
 
-![Riya's Github Status](https://github-readme-stats.vercel.app/api?username=RiyaMathew-11&show_icons=true&title_color=3793c4&icon_color=ffbb00&text_color=ffffff&bg_color=000000)
+![Riya's Github Status](https://github-readme-stats.vercel.app/api?username=RiyaMathew-11&show_icons=true&title_color=3793c4&icon_color=ffbb00&text_color=ffffff&bg_color=000000&count_private=true&show_icons=true&hide_title=true&include_all_commits=true)
 
 <hr>
     
