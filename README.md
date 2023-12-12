@@ -135,8 +135,6 @@ I am **Riya P Mathew**, an undergrad majoring in Computer Science and Engineerin
     
 <br></br>
 
-[![Riya's github activity graph](https://activity-graph.herokuapp.com/graph?username=RiyaMathew-11&theme=xcode)](https://github.com/RiyaMathew-11)
-
 
 </div>    
 <h1 align="center">    
