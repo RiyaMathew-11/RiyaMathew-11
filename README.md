@@ -14,8 +14,8 @@ I am **Riya P Mathew**, a hacker-girl tinkerer, and currently I manage the tech 
 - Building [@fossunited platform](https://platform.fossunited.org)
   
    
-<h1 align="left">    
-✨ Connect with me ✨</h1>
+<h5 align="left">    
+✨ Connect with me ✨</h5>
 
 <p align="left">
   <br/>
