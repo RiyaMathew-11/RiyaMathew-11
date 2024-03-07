@@ -7,12 +7,11 @@
 <img src='https://img.shields.io/badge/AI/ML%20Enthusiast-555555?style=for-the-badge&logoColor=white'>
 
 
-I am **Riya P Mathew**, an undergrad majoring in Computer Science and Engineering. I love to work with `Python` and `C`. I’m currently looking through `Machine Learning` and `Competitive Programming`
+I am **Riya P Mathew**, a hacker-girl tinkerer, and currently I manage the tech team [@fossunited](https://github.com/fossunited). 
 
-- I'm interested in `Cryptography` and `Web Development`
-- Ask me about `Python` and `Machine Learning`.
-- Currently working on my mini project involving `Deep Learning` and `NLP`
-- Also focussed on improving my `Data Structures and Algorithms` and `Problem Solving Skills`
+- I'm interested in `Python` and `ML`
+- Working with `Frappe`, a low-code opensource web framework in Python and Javascript.
+- Building [@fossunited platform](https://platform.fossunited.org)
 
 ### 𝗠𝘆 𝗧𝗲𝗰𝗸 𝗦𝘁𝗮𝗰𝗸
 
@@ -108,24 +107,6 @@ I am **Riya P Mathew**, an undergrad majoring in Computer Science and Engineerin
     </tr>
   </tbody>
 </table>    
-
-### Project - [Alphere](https://github.com/RiyaMathew-11/AlphaCoders_Alphere)
-<details><summary><i>A distinctive approach to promote social distancing and fast track commuting details</i></summary>
-<p>
-    <h4>Introducing: alphCapture | alphRecord | alphTrack </h4>
-    <img src='https://github.com/RiyaMathew-11/RiyaMathew-11/blob/master/media/AlphCapture01.png' width=350px> &nbsp
-    <img src='https://github.com/RiyaMathew-11/RiyaMathew-11/blob/master/media/AlphRecord01.png' width=350px>
-    <img src='https://github.com/RiyaMathew-11/RiyaMathew-11/blob/master/media/AlphTrack01.png' width=350px> <br>
-    <h3>My Team: Alpha Coders </h3>
-    <ul>
-        <li><a href = 'https://github.com/Jeffzieee'>Jephin John</a></li>
-        <li><a href = 'https://github.com/Hyareen-Linda'>P Hyaareen Linda</a></li>
-        <li><a href = 'https://github.com/Vaisakh-RS'>Vaisakh R S</a></li>
-        <li><a href = 'https://github.com/annshiny'>Ann Shiny</a></li>
-    </ul>    
-    
-</p>    
-</details>
 
 <div align = "center">
 
