@@ -14,8 +14,8 @@ I am **Riya P Mathew**, a hacker-girl tinkerer, and currently I manage the tech 
 - Building [@fossunited platform](https://platform.fossunited.org)
   
    
-<h5 align="left">    
-✨ Connect with me ✨</h5>
+<h4 align="left">    
+✨ Connect with me ✨</h4>
 
 <p align="left">
   <br/>
@@ -31,7 +31,7 @@ I am **Riya P Mathew**, a hacker-girl tinkerer, and currently I manage the tech 
     <img src="https://img.shields.io/badge/Instagram-%23E4405F.svg?&style=flat-square&logo=instagram&logoColor=white">
   </a>
 
-  <a href="https://twitter.com/RiyaPMathew2">
+  <a href="https://twitter.com/riya_mathew_11">
     <img src="https://img.shields.io/badge/twitter-%230077D4.svg?&style=flat-square&logo=twitter&logoColor=white">
   </a>
 </p>
