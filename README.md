@@ -15,9 +15,9 @@ I am **Riya P Mathew**, a hacker-girl tinkerer, and currently I manage the tech 
   
    
 <h1 align="left">    
-✨ Connect with me ✨
+✨ Connect with me ✨</h1>
 
-<p align="center">
+<p align="left">
   <br/>
   <a href="https://www.linkedin.com/in/riya-p-mathew-3ab88b1a0/">
     <img src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?&style=flat-square&logo=linkedin&logoColor=white">
@@ -26,9 +26,6 @@ I am **Riya P Mathew**, a hacker-girl tinkerer, and currently I manage the tech 
   <a href="mailto:riyapmathew2000@gmail.com">
     <img src="https://img.shields.io/badge/gmail-%231DA1F2.svg?&style=flat-square&logo=gmail&logoColor=white">  
   </a>
-
-
-  <br/>
  
   <a href="https://www.instagram.com/riya_mathew1111/">
     <img src="https://img.shields.io/badge/Instagram-%23E4405F.svg?&style=flat-square&logo=instagram&logoColor=white">
@@ -38,4 +35,4 @@ I am **Riya P Mathew**, a hacker-girl tinkerer, and currently I manage the tech 
     <img src="https://img.shields.io/badge/twitter-%230077D4.svg?&style=flat-square&logo=twitter&logoColor=white">
   </a>
 </p>
-</h1>
+
