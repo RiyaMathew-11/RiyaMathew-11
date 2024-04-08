@@ -7,7 +7,7 @@
 <img src='https://img.shields.io/badge/AI/ML%20Enthusiast-555555?style=for-the-badge&logoColor=white'>
 
 
-I am **Riya P Mathew**, a hacker-girl tinkerer, and currently I manage the tech team [@fossunited](https://github.com/fossunited). 
+I am **Riya P Mathew**, a hacker-girl tinkerer, and currently I work with tech [@fossunited](https://github.com/fossunited). 
 
 - I'm interested in `Python` and `ML`
 - Working with `Frappe`, a low-code opensource web framework in Python and Javascript.
