@@ -11,7 +11,6 @@ I am **Riya P Mathew**, a hacker-girl tinkerer, and currently I work with tech [
 
 - I'm interested in `Python` and `ML`
 - Working with `Frappe`, a low-code opensource web framework in Python and Javascript.
-- Building [@fossunited platform](https://platform.fossunited.org)
   
    
 <h4 align="left">    
